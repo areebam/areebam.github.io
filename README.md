@@ -1,5 +1,5 @@
 # Personal Portfolio ⚡️ 
-Name: Areeba Mobeen 
+Name: Areeba Mobeen <br>
 This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io 
 
 
