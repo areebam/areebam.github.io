@@ -24,6 +24,7 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 ## Activity 5: Adding dynamic content with JavaScript 
 <img width="595" height="320" alt="Screen Shot 2025-09-19 at 1 21 47 AM" src="https://github.com/user-attachments/assets/bbc9c361-3e7a-4c27-94ea-d15af90f8a52" />
+<img width="1402" height="716" alt="Screen Shot 2025-09-19 at 1 22 46 AM" src="https://github.com/user-attachments/assets/4dc1abe7-bbf6-4851-8a88-9496f3bd9aec" />
 
 
 > https://varadbhogayata.github.io
