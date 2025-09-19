@@ -5,18 +5,18 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 
 
-# Activity 1: Cloning personal website repo into my GitHub account
+## Activity 1: Cloning personal website repo into my GitHub account
 
 
-# Activity 2: Adding my personal information
+## Activity 2: Adding my personal information
 
-# Activity 3: Changing the theme colour of my personal website
-
-
-# Activity 4: Creating new section and embedding google maps 
+## Activity 3: Changing the theme colour of my personal website
 
 
-# Activity 5: Adding dynamic content with JavaScript 
+## Activity 4: Creating new section and embedding google maps 
+
+
+## Activity 5: Adding dynamic content with JavaScript 
 
 
 
